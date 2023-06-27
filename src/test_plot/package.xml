@@ -4,8 +4,8 @@
   <name>test_plot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="tim.dodge64@gmail.com">tim</maintainer>
-  <license>TODO: License declaration</license>
+  <maintainer email="tim.dodge64@gmail.com">Timothy Dodge</maintainer>
+  <license>Apache License 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <buildtool_depend>rclpy</buildtool_depend>

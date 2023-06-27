@@ -1,8 +1,9 @@
+# Using MatplotLib with threading in Python to allow for Seamless Real Time Data Visualization
+
 Explination of Threading and Matplotlib
-Matplotlib requires synchronous plotting functionality to occur on the main thread. Within ROS anything that is executed in a timer or callback is executed on a secondary thread. This means if a user is attempting to plot regularly from information that is retrieved from either service-client, or publisher-subscriber requires manual pushing of plotting to the main thread to allow for the images to be displayed. 
+Matplotlib requires synchronous plotting functionality to occur on the main thread. Within ROS anything that is executed in a timer or callback is executed on a secondary thread. This means if a user is attempting to plot regularly from information that is retrieved from either service-client, or publisher-subscriber requires manual pushing of plotting to the main thread to allow for the images to be displayed.
 
 To explain how to do this two examples are shown. The first example shows how the threading can be achieved without ROS to explain what is happening on the Python side. The second example follows similar logic to the first example but is implemented in ROS2 to show what changes are specific to ROS.
-
 
 # Example of Threading Without ROS
 
@@ -81,13 +82,14 @@ if __name__ == "__main__":
     thread.start()
     test._plt()
 ```
+
 # Explanation of Example 1
 
 In this example, the class Tester is used to simulate a node class when used in ROS. First, in the init function, a Matplotlib figure and axis are saved to the class. Both will be continually updated throughout the lifecycle of the class. The x, and y member variables are initialized with data to show how to update existing data. A threading lock must also be created to prevent the simultaneous access of the data that is to be plotted.  
 
 The loop logic function begins by adding data to the x and y member variables every three seconds. This loop logic calls a second function ```plt_add``` that uses the threading lock ```_lock``` to add data to the member variables x and y.
 
-To allow for continuous updating of the axis the ```FuncAnimation``` function is used which updates the figures with a given callable at the frequency given by the keyword argument interval. Any callable used by FuncAnimation must return the axis that will update the given figure. 
+To allow for continuous updating of the axis the ```FuncAnimation``` function is used which updates the figures with a given callable at the frequency given by the keyword argument interval. Any callable used by FuncAnimation must return the axis that will update the given figure.
 
 The function ```plt_func``` follows this convention using the threading lock to retrieve the data from the member variables x and y and adding them to the axis and returning it.
 
@@ -96,6 +98,7 @@ In the main function, the class is initialized and the ```loop_logic``` function
 # Example Using ROS
 
 Using this same logic the next example implements this plotting in a ROS NODE.
+
 ```python
 #! /usr/bin/env python3
 
@@ -193,11 +196,12 @@ if __name__ == "__main__":
     main()
 
 ```
+
 # Major Differences Between Example 1 and 2
 
-The main change is the loop_logic function from the previous example becomes a callback for the class's subscriber. 
+The main change is the loop_logic function from the previous example becomes a callback for the class's subscriber.
 
-Then in the main function, a multi-threaded executor is created and the example node is added to the executor. The spinning of this executor is then placed into the thread and an extra keyword is added ```daemon=True``` to allow for the ROS2 daemon to execute. Otherwise, the layout is the same. 
+Then in the main function, a multi-threaded executor is created and the example node is added to the executor. The spinning of this executor is then placed into the thread and an extra keyword is added ```daemon=True``` to allow for the ROS2 daemon to execute. Otherwise, the layout is the same.
 
 # Location of Examples and How to Run
 
@@ -212,9 +216,9 @@ colcon build
 ros2 launch test_plot test.launch.py
 ```
 
-# Boiler Plate Code 
+# Boiler Plate Code
 
-# Boiler Plate Code 
+# Boiler Plate Code
 
 Boiler plate code for plotting can be found on my profile and can be cloned with the following command.
 

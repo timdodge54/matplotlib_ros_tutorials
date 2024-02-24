@@ -1,6 +1,6 @@
 # Using MatplotLib with threading in Python to allow for Seamless Real Time Data Visualization
 
-Explination of Threading and Matplotlib
+## Explanation of Threading and Matplotlib
 Matplotlib requires synchronous plotting functionality to occur on the main thread. Within ROS anything that is executed in a timer or callback is executed on a secondary thread. This means if a user is attempting to plot regularly from information that is retrieved from either service-client, or publisher-subscriber requires manual pushing of plotting to the main thread to allow for the images to be displayed.
 
 To explain how to do this two examples are shown. The first example shows how the threading can be achieved without ROS to explain what is happening on the Python side. The second example follows similar logic to the first example but is implemented in ROS2 to show what changes are specific to ROS.

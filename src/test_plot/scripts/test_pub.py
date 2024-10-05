@@ -6,6 +6,7 @@ import rclpy.callback_groups
 from test_msg.msg import Test
 from rclpy.client import Client
 from rclpy.node import Node
+import numpy as np
 
 
 class TestPub(Node):
@@ -20,7 +21,7 @@ class TestPub(Node):
     def loop_pub(self) -> None:
         self.counter += 1
         msg = Test()
-        msg.num = self.counter
+        msg.num = np.random.randint(0, 30)
         self.pub.publish(msg)
 
 

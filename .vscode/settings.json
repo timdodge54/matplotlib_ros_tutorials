@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/tim-ub-pc/Documents/code/plt_ws/matplotlib_ros_tutorials/install/test_msg/lib/python3.12/site-packages",
+        "/home/tim-ub-pc/Documents/code/SA/install/cc_msgs/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tim-ub-pc/Documents/code/plt_ws/matplotlib_ros_tutorials/install/test_msg/lib/python3.12/site-packages",
+        "/home/tim-ub-pc/Documents/code/SA/install/cc_msgs/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}

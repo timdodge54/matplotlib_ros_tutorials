@@ -34,6 +34,7 @@ class Example_Node(Node):
         self._lock = threading.Lock()
         # create initial values to plot
         self.x = [i for i in range(5)]
+        self.current_x = 5
         self.width = [0.5 for i in range(5)]
         # create subscriber
         self.cbg = rclpy.callback_groups.MutuallyExclusiveCallbackGroup()
@@ -54,8 +55,9 @@ class Example_Node(Node):
         with self._lock:
             # update values
             number: int = msg.num
-            self.x.append(number)
-            self.width.append(0.5)
+            self.x.append(self.current_x)
+            self.width.append(number)
+            self.current_x += 1
             # update counter
 
     def plt_func(self, _):
@@ -71,7 +73,7 @@ class Example_Node(Node):
         with self._lock:
             x = np.array(self.x)
             y = np.array(self.width)
-            self.ax.barh(y, 0.5, left=x, color="red")
+            self.ax.plot(x, y, color="red")
 
             return self.ax
 

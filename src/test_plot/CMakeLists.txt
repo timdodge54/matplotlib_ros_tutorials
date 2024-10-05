@@ -44,6 +44,7 @@ find_package(test_msg REQUIRED)
 # ament_python_install_package(UTA_Bus_Tracking)
 install(PROGRAMS
   scripts/test_plot.py
+  scripts/test_plot1.py
   scripts/test_pub.py
   DESTINATION lib/${PROJECT_NAME})
 

@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/tim-ub-pc/Documents/code/plt_ws/matplotlib_ros_tutorials/install/test_msg/include/**",
+        "/home/tim-ub-pc/Documents/code/SA/install/power_energy_propogation/include/**",
+        "/home/tim-ub-pc/Documents/code/SA/install/cc_msgs/include/**",
+        "/opt/ros/jazzy/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

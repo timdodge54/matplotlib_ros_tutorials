@@ -1,0 +1,951 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "builtins",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "builtins",
+        "description": "builtins",
+        "detail": "builtins",
+        "documentation": {}
+    },
+    {
+        "label": "rosidl_parser.definition",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rosidl_parser.definition",
+        "description": "rosidl_parser.definition",
+        "detail": "rosidl_parser.definition",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "typing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typing",
+        "description": "typing",
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.animation",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.animation",
+        "description": "matplotlib.animation",
+        "detail": "matplotlib.animation",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "numpy.typing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy.typing",
+        "description": "numpy.typing",
+        "detail": "numpy.typing",
+        "documentation": {}
+    },
+    {
+        "label": "rclpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rclpy",
+        "description": "rclpy",
+        "detail": "rclpy",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "importPath": "test_msg.msg",
+        "description": "test_msg.msg",
+        "isExtraImport": true,
+        "detail": "test_msg.msg",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "importPath": "test_msg.msg",
+        "description": "test_msg.msg",
+        "isExtraImport": true,
+        "detail": "test_msg.msg",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "importPath": "test_msg.msg",
+        "description": "test_msg.msg",
+        "isExtraImport": true,
+        "detail": "test_msg.msg",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "importPath": "test_msg.msg",
+        "description": "test_msg.msg",
+        "isExtraImport": true,
+        "detail": "test_msg.msg",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "importPath": "test_msg.msg",
+        "description": "test_msg.msg",
+        "isExtraImport": true,
+        "detail": "test_msg.msg",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "importPath": "test_msg.msg",
+        "description": "test_msg.msg",
+        "isExtraImport": true,
+        "detail": "test_msg.msg",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "rclpy.subscription",
+        "description": "rclpy.subscription",
+        "isExtraImport": true,
+        "detail": "rclpy.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "rclpy.subscription",
+        "description": "rclpy.subscription",
+        "isExtraImport": true,
+        "detail": "rclpy.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "rclpy.subscription",
+        "description": "rclpy.subscription",
+        "isExtraImport": true,
+        "detail": "rclpy.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "rclpy.subscription",
+        "description": "rclpy.subscription",
+        "isExtraImport": true,
+        "detail": "rclpy.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "rclpy.node",
+        "description": "rclpy.node",
+        "isExtraImport": true,
+        "detail": "rclpy.node",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "rclpy.node",
+        "description": "rclpy.node",
+        "isExtraImport": true,
+        "detail": "rclpy.node",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "rclpy.node",
+        "description": "rclpy.node",
+        "isExtraImport": true,
+        "detail": "rclpy.node",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "rclpy.node",
+        "description": "rclpy.node",
+        "isExtraImport": true,
+        "detail": "rclpy.node",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "rclpy.node",
+        "description": "rclpy.node",
+        "isExtraImport": true,
+        "detail": "rclpy.node",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "rclpy.node",
+        "description": "rclpy.node",
+        "isExtraImport": true,
+        "detail": "rclpy.node",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "rclpy.callback_groups",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rclpy.callback_groups",
+        "description": "rclpy.callback_groups",
+        "detail": "rclpy.callback_groups",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "rclpy.client",
+        "description": "rclpy.client",
+        "isExtraImport": true,
+        "detail": "rclpy.client",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "rclpy.client",
+        "description": "rclpy.client",
+        "isExtraImport": true,
+        "detail": "rclpy.client",
+        "documentation": {}
+    },
+    {
+        "label": "launch.actions",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "launch.actions",
+        "description": "launch.actions",
+        "detail": "launch.actions",
+        "documentation": {}
+    },
+    {
+        "label": "get_package_share_directory",
+        "importPath": "ament_index_python.packages",
+        "description": "ament_index_python.packages",
+        "isExtraImport": true,
+        "detail": "ament_index_python.packages",
+        "documentation": {}
+    },
+    {
+        "label": "get_package_share_directory",
+        "importPath": "ament_index_python.packages",
+        "description": "ament_index_python.packages",
+        "isExtraImport": true,
+        "detail": "ament_index_python.packages",
+        "documentation": {}
+    },
+    {
+        "label": "LaunchDescription",
+        "importPath": "launch",
+        "description": "launch",
+        "isExtraImport": true,
+        "detail": "launch",
+        "documentation": {}
+    },
+    {
+        "label": "LaunchDescription",
+        "importPath": "launch",
+        "description": "launch",
+        "isExtraImport": true,
+        "detail": "launch",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "launch_ros.actions",
+        "description": "launch_ros.actions",
+        "isExtraImport": true,
+        "detail": "launch_ros.actions",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "launch_ros.actions",
+        "description": "launch_ros.actions",
+        "isExtraImport": true,
+        "detail": "launch_ros.actions",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Metaclass_Test",
+        "kind": 6,
+        "importPath": "build.test_msg.ament_cmake_python.test_msg.test_msg.msg._test",
+        "description": "build.test_msg.ament_cmake_python.test_msg.test_msg.msg._test",
+        "peekOfCode": "class Metaclass_Test(type):\n    \"\"\"Metaclass of message 'Test'.\"\"\"\n    _CREATE_ROS_MESSAGE = None\n    _CONVERT_FROM_PY = None\n    _CONVERT_TO_PY = None\n    _DESTROY_ROS_MESSAGE = None\n    _TYPE_SUPPORT = None\n    __constants = {\n    }\n    @classmethod",
+        "detail": "build.test_msg.ament_cmake_python.test_msg.test_msg.msg._test",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "kind": 6,
+        "importPath": "build.test_msg.ament_cmake_python.test_msg.test_msg.msg._test",
+        "description": "build.test_msg.ament_cmake_python.test_msg.test_msg.msg._test",
+        "peekOfCode": "class Test(metaclass=Metaclass_Test):\n    \"\"\"Message class 'Test'.\"\"\"\n    __slots__ = [\n        '_num',\n        '_check_fields',\n    ]\n    _fields_and_field_types = {\n        'num': 'int64',\n    }\n    # This attribute is used to store an rosidl_parser.definition variable",
+        "detail": "build.test_msg.ament_cmake_python.test_msg.test_msg.msg._test",
+        "documentation": {}
+    },
+    {
+        "label": "ros_python_check_fields",
+        "kind": 5,
+        "importPath": "build.test_msg.ament_cmake_python.test_msg.test_msg.msg._test",
+        "description": "build.test_msg.ament_cmake_python.test_msg.test_msg.msg._test",
+        "peekOfCode": "ros_python_check_fields = getenv('ROS_PYTHON_CHECK_FIELDS', default='')\n# Import statements for member types\nimport builtins  # noqa: E402, I100\nimport rosidl_parser.definition  # noqa: E402, I100\nclass Metaclass_Test(type):\n    \"\"\"Metaclass of message 'Test'.\"\"\"\n    _CREATE_ROS_MESSAGE = None\n    _CONVERT_FROM_PY = None\n    _CONVERT_TO_PY = None\n    _DESTROY_ROS_MESSAGE = None",
+        "detail": "build.test_msg.ament_cmake_python.test_msg.test_msg.msg._test",
+        "documentation": {}
+    },
+    {
+        "label": "Metaclass_Test",
+        "kind": 6,
+        "importPath": "build.test_msg.rosidl_generator_py.test_msg.msg._test",
+        "description": "build.test_msg.rosidl_generator_py.test_msg.msg._test",
+        "peekOfCode": "class Metaclass_Test(type):\n    \"\"\"Metaclass of message 'Test'.\"\"\"\n    _CREATE_ROS_MESSAGE = None\n    _CONVERT_FROM_PY = None\n    _CONVERT_TO_PY = None\n    _DESTROY_ROS_MESSAGE = None\n    _TYPE_SUPPORT = None\n    __constants = {\n    }\n    @classmethod",
+        "detail": "build.test_msg.rosidl_generator_py.test_msg.msg._test",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "kind": 6,
+        "importPath": "build.test_msg.rosidl_generator_py.test_msg.msg._test",
+        "description": "build.test_msg.rosidl_generator_py.test_msg.msg._test",
+        "peekOfCode": "class Test(metaclass=Metaclass_Test):\n    \"\"\"Message class 'Test'.\"\"\"\n    __slots__ = [\n        '_num',\n        '_check_fields',\n    ]\n    _fields_and_field_types = {\n        'num': 'int64',\n    }\n    # This attribute is used to store an rosidl_parser.definition variable",
+        "detail": "build.test_msg.rosidl_generator_py.test_msg.msg._test",
+        "documentation": {}
+    },
+    {
+        "label": "ros_python_check_fields",
+        "kind": 5,
+        "importPath": "build.test_msg.rosidl_generator_py.test_msg.msg._test",
+        "description": "build.test_msg.rosidl_generator_py.test_msg.msg._test",
+        "peekOfCode": "ros_python_check_fields = getenv('ROS_PYTHON_CHECK_FIELDS', default='')\n# Import statements for member types\nimport builtins  # noqa: E402, I100\nimport rosidl_parser.definition  # noqa: E402, I100\nclass Metaclass_Test(type):\n    \"\"\"Metaclass of message 'Test'.\"\"\"\n    _CREATE_ROS_MESSAGE = None\n    _CONVERT_FROM_PY = None\n    _CONVERT_TO_PY = None\n    _DESTROY_ROS_MESSAGE = None",
+        "detail": "build.test_msg.rosidl_generator_py.test_msg.msg._test",
+        "documentation": {}
+    },
+    {
+        "label": "Example_Node",
+        "kind": 6,
+        "importPath": "install.test_plot.lib.test_plot.test_plot",
+        "description": "install.test_plot.lib.test_plot.test_plot",
+        "peekOfCode": "class Example_Node(Node):\n    \"\"\"Example Node for showing how to use matplotlib within ros 2 node\n    Attributes:\n        fig: Figure object for matplotlib\n        ax: Axes object for matplotlib\n        x: x values for matplotlib\n        y: y values for matplotlib\n        lock: lock for threading\n        _sub: Subscriber for node\n    \"\"\"",
+        "detail": "install.test_plot.lib.test_plot.test_plot",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "install.test_plot.lib.test_plot.test_plot",
+        "description": "install.test_plot.lib.test_plot.test_plot",
+        "peekOfCode": "def main(args=None):\n    rclpy.init(args=args)\n    node = Example_Node()\n    executor = rclpy.executors.MultiThreadedExecutor()\n    executor.add_node(node)\n    thread = threading.Thread(target=executor.spin, daemon=True)\n    thread.start()\n    node._plt()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "install.test_plot.lib.test_plot.test_plot",
+        "documentation": {}
+    },
+    {
+        "label": "Example_Node",
+        "kind": 6,
+        "importPath": "install.test_plot.lib.test_plot.test_plot1",
+        "description": "install.test_plot.lib.test_plot.test_plot1",
+        "peekOfCode": "class Example_Node(Node):\n    \"\"\"Example Node for showing how to use matplotlib within ros 2 node\n    Attributes:\n        fig: Figure object for matplotlib\n        ax: Axes object for matplotlib\n        x: x values for matplotlib\n        y: y values for matplotlib\n        lock: lock for threading\n        _sub: Subscriber for node\n    \"\"\"",
+        "detail": "install.test_plot.lib.test_plot.test_plot1",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "install.test_plot.lib.test_plot.test_plot1",
+        "description": "install.test_plot.lib.test_plot.test_plot1",
+        "peekOfCode": "def main(args=None):\n    rclpy.init(args=args)\n    node = Example_Node()\n    executor = rclpy.executors.MultiThreadedExecutor()\n    executor.add_node(node)\n    thread = threading.Thread(target=executor.spin, daemon=True)\n    thread.start()\n    node._plt()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "install.test_plot.lib.test_plot.test_plot1",
+        "documentation": {}
+    },
+    {
+        "label": "TestPub",
+        "kind": 6,
+        "importPath": "install.test_plot.lib.test_plot.test_pub",
+        "description": "install.test_plot.lib.test_plot.test_pub",
+        "peekOfCode": "class TestPub(Node):\n    def __init__(self) -> None:\n        super().__init__(\"test_pub\")\n        self.cbg = rclpy.callback_groups.MutuallyExclusiveCallbackGroup()\n        self.pub = self.create_publisher(Test, \"test\", 10, callback_group=self.cbg)\n        self.counter = 4\n        time.sleep(5)\n        self.timer = self.create_timer(1, self.loop_pub)\n    def loop_pub(self) -> None:\n        self.counter += 1",
+        "detail": "install.test_plot.lib.test_plot.test_pub",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "install.test_plot.lib.test_plot.test_pub",
+        "description": "install.test_plot.lib.test_plot.test_pub",
+        "peekOfCode": "def main(args=None):\n    rclpy.init(args=args)\n    node = TestPub()\n    rclpy.spin(node)\n    rclpy.shutdown()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "install.test_plot.lib.test_plot.test_pub",
+        "documentation": {}
+    },
+    {
+        "label": "generate_launch_description",
+        "kind": 2,
+        "importPath": "install.test_plot.share.test_plot.launch.test.launch",
+        "description": "install.test_plot.share.test_plot.launch.test.launch",
+        "peekOfCode": "def generate_launch_description():\n    test_plotter = Node(\n        package=\"test_plot\",\n        executable=\"test_plot1.py\",\n        name=\"test_plotter\",\n        output=\"screen\",\n        emulate_tty=True,\n    )\n    test_pub = Node(\n        package=\"test_plot\",",
+        "detail": "install.test_plot.share.test_plot.launch.test.launch",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "def main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(\n        'primary_extension',\n        help='The file extension of the primary shell')\n    parser.add_argument(\n        'additional_extension', nargs='?',\n        help='The additional file extension to be considered')",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "get_packages",
+        "kind": 2,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "def get_packages(prefix_path, merged_install):\n    \"\"\"\n    Find packages based on colcon-specific files created during installation.\n    :param Path prefix_path: The install prefix path of all packages\n    :param bool merged_install: The flag if the packages are all installed\n      directly in the prefix or if each package is installed in a subdirectory\n      named after the package\n    :returns: A mapping from the package name to the set of runtime\n      dependencies\n    :rtype: dict",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "add_package_runtime_dependencies",
+        "kind": 2,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "def add_package_runtime_dependencies(path, packages):\n    \"\"\"\n    Check the path and if it exists extract the packages runtime dependencies.\n    :param Path path: The resource file containing the runtime dependencies\n    :param dict packages: A mapping from package names to the sets of runtime\n      dependencies to add to\n    \"\"\"\n    content = path.read_text()\n    dependencies = set(content.split(os.pathsep) if content else [])\n    packages[path.name] = dependencies",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "order_packages",
+        "kind": 2,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "def order_packages(packages):\n    \"\"\"\n    Order packages topologically.\n    :param dict packages: A mapping from package name to the set of runtime\n      dependencies\n    :returns: The package names\n    :rtype: list\n    \"\"\"\n    # select packages with no dependencies in alphabetical order\n    to_be_ordered = list(packages.keys())",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "reduce_cycle_set",
+        "kind": 2,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "def reduce_cycle_set(packages):\n    \"\"\"\n    Reduce the set of packages to the ones part of the circular dependency.\n    :param dict packages: A mapping from package name to the set of runtime\n      dependencies which is modified in place\n    \"\"\"\n    last_depended = None\n    while len(packages) > 0:\n        # get all remaining dependencies\n        depended = set()",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "get_commands",
+        "kind": 2,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "def get_commands(pkg_name, prefix, primary_extension, additional_extension):\n    commands = []\n    package_dsv_path = os.path.join(prefix, 'share', pkg_name, 'package.dsv')\n    if os.path.exists(package_dsv_path):\n        commands += process_dsv_file(\n            package_dsv_path, prefix, primary_extension, additional_extension)\n    return commands\ndef process_dsv_file(\n    dsv_path, prefix, primary_extension=None, additional_extension=None\n):",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "process_dsv_file",
+        "kind": 2,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "def process_dsv_file(\n    dsv_path, prefix, primary_extension=None, additional_extension=None\n):\n    commands = []\n    if _include_comments():\n        commands.append(FORMAT_STR_COMMENT_LINE.format_map({'comment': dsv_path}))\n    with open(dsv_path, 'r') as h:\n        content = h.read()\n    lines = content.splitlines()\n    basenames = OrderedDict()",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "handle_dsv_types_except_source",
+        "kind": 2,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "def handle_dsv_types_except_source(type_, remainder, prefix):\n    commands = []\n    if type_ in (DSV_TYPE_SET, DSV_TYPE_SET_IF_UNSET):\n        try:\n            env_name, value = remainder.split(';', 1)\n        except ValueError:\n            raise RuntimeError(\n                \"doesn't contain a semicolon separating the environment name \"\n                'from the value')\n        try_prefixed_value = os.path.join(prefix, value) if value else prefix",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_COMMENT_LINE",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "FORMAT_STR_COMMENT_LINE = '# {comment}'\nFORMAT_STR_SET_ENV_VAR = 'Set-Item -Path \"Env:{name}\" -Value \"{value}\"'\nFORMAT_STR_USE_ENV_VAR = '$env:{name}'\nFORMAT_STR_INVOKE_SCRIPT = '_colcon_prefix_powershell_source_script \"{script_path}\"'  # noqa: E501\nFORMAT_STR_REMOVE_LEADING_SEPARATOR = ''  # noqa: E501\nFORMAT_STR_REMOVE_TRAILING_SEPARATOR = ''  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_SET_ENV_VAR",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "FORMAT_STR_SET_ENV_VAR = 'Set-Item -Path \"Env:{name}\" -Value \"{value}\"'\nFORMAT_STR_USE_ENV_VAR = '$env:{name}'\nFORMAT_STR_INVOKE_SCRIPT = '_colcon_prefix_powershell_source_script \"{script_path}\"'  # noqa: E501\nFORMAT_STR_REMOVE_LEADING_SEPARATOR = ''  # noqa: E501\nFORMAT_STR_REMOVE_TRAILING_SEPARATOR = ''  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_USE_ENV_VAR",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "FORMAT_STR_USE_ENV_VAR = '$env:{name}'\nFORMAT_STR_INVOKE_SCRIPT = '_colcon_prefix_powershell_source_script \"{script_path}\"'  # noqa: E501\nFORMAT_STR_REMOVE_LEADING_SEPARATOR = ''  # noqa: E501\nFORMAT_STR_REMOVE_TRAILING_SEPARATOR = ''  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_INVOKE_SCRIPT",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "FORMAT_STR_INVOKE_SCRIPT = '_colcon_prefix_powershell_source_script \"{script_path}\"'  # noqa: E501\nFORMAT_STR_REMOVE_LEADING_SEPARATOR = ''  # noqa: E501\nFORMAT_STR_REMOVE_TRAILING_SEPARATOR = ''  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_REMOVE_LEADING_SEPARATOR",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "FORMAT_STR_REMOVE_LEADING_SEPARATOR = ''  # noqa: E501\nFORMAT_STR_REMOVE_TRAILING_SEPARATOR = ''  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_REMOVE_TRAILING_SEPARATOR",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "FORMAT_STR_REMOVE_TRAILING_SEPARATOR = ''  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_APPEND_NON_DUPLICATE",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "DSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_PREPEND_NON_DUPLICATE",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "DSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "DSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(\n        'primary_extension',",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_SET",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "DSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(\n        'primary_extension',\n        help='The file extension of the primary shell')",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_SET_IF_UNSET",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "DSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(\n        'primary_extension',\n        help='The file extension of the primary shell')\n    parser.add_argument(",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_SOURCE",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "DSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(\n        'primary_extension',\n        help='The file extension of the primary shell')\n    parser.add_argument(\n        'additional_extension', nargs='?',",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "env_state",
+        "kind": 5,
+        "importPath": "install._local_setup_util_ps1",
+        "description": "install._local_setup_util_ps1",
+        "peekOfCode": "env_state = {}\ndef _append_unique_value(name, value):\n    global env_state\n    if name not in env_state:\n        if os.environ.get(name):\n            env_state[name] = set(os.environ[name].split(os.pathsep))\n        else:\n            env_state[name] = set()\n    # append even if the variable has not been set yet, in case a shell script sets the\n    # same variable without the knowledge of this Python script.",
+        "detail": "install._local_setup_util_ps1",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "def main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(\n        'primary_extension',\n        help='The file extension of the primary shell')\n    parser.add_argument(\n        'additional_extension', nargs='?',\n        help='The additional file extension to be considered')",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "get_packages",
+        "kind": 2,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "def get_packages(prefix_path, merged_install):\n    \"\"\"\n    Find packages based on colcon-specific files created during installation.\n    :param Path prefix_path: The install prefix path of all packages\n    :param bool merged_install: The flag if the packages are all installed\n      directly in the prefix or if each package is installed in a subdirectory\n      named after the package\n    :returns: A mapping from the package name to the set of runtime\n      dependencies\n    :rtype: dict",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "add_package_runtime_dependencies",
+        "kind": 2,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "def add_package_runtime_dependencies(path, packages):\n    \"\"\"\n    Check the path and if it exists extract the packages runtime dependencies.\n    :param Path path: The resource file containing the runtime dependencies\n    :param dict packages: A mapping from package names to the sets of runtime\n      dependencies to add to\n    \"\"\"\n    content = path.read_text()\n    dependencies = set(content.split(os.pathsep) if content else [])\n    packages[path.name] = dependencies",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "order_packages",
+        "kind": 2,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "def order_packages(packages):\n    \"\"\"\n    Order packages topologically.\n    :param dict packages: A mapping from package name to the set of runtime\n      dependencies\n    :returns: The package names\n    :rtype: list\n    \"\"\"\n    # select packages with no dependencies in alphabetical order\n    to_be_ordered = list(packages.keys())",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "reduce_cycle_set",
+        "kind": 2,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "def reduce_cycle_set(packages):\n    \"\"\"\n    Reduce the set of packages to the ones part of the circular dependency.\n    :param dict packages: A mapping from package name to the set of runtime\n      dependencies which is modified in place\n    \"\"\"\n    last_depended = None\n    while len(packages) > 0:\n        # get all remaining dependencies\n        depended = set()",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "get_commands",
+        "kind": 2,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "def get_commands(pkg_name, prefix, primary_extension, additional_extension):\n    commands = []\n    package_dsv_path = os.path.join(prefix, 'share', pkg_name, 'package.dsv')\n    if os.path.exists(package_dsv_path):\n        commands += process_dsv_file(\n            package_dsv_path, prefix, primary_extension, additional_extension)\n    return commands\ndef process_dsv_file(\n    dsv_path, prefix, primary_extension=None, additional_extension=None\n):",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "process_dsv_file",
+        "kind": 2,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "def process_dsv_file(\n    dsv_path, prefix, primary_extension=None, additional_extension=None\n):\n    commands = []\n    if _include_comments():\n        commands.append(FORMAT_STR_COMMENT_LINE.format_map({'comment': dsv_path}))\n    with open(dsv_path, 'r') as h:\n        content = h.read()\n    lines = content.splitlines()\n    basenames = OrderedDict()",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "handle_dsv_types_except_source",
+        "kind": 2,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "def handle_dsv_types_except_source(type_, remainder, prefix):\n    commands = []\n    if type_ in (DSV_TYPE_SET, DSV_TYPE_SET_IF_UNSET):\n        try:\n            env_name, value = remainder.split(';', 1)\n        except ValueError:\n            raise RuntimeError(\n                \"doesn't contain a semicolon separating the environment name \"\n                'from the value')\n        try_prefixed_value = os.path.join(prefix, value) if value else prefix",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_COMMENT_LINE",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "FORMAT_STR_COMMENT_LINE = '# {comment}'\nFORMAT_STR_SET_ENV_VAR = 'export {name}=\"{value}\"'\nFORMAT_STR_USE_ENV_VAR = '${name}'\nFORMAT_STR_INVOKE_SCRIPT = 'COLCON_CURRENT_PREFIX=\"{prefix}\" _colcon_prefix_sh_source_script \"{script_path}\"'  # noqa: E501\nFORMAT_STR_REMOVE_LEADING_SEPARATOR = 'if [ \"$(echo -n ${name} | head -c 1)\" = \":\" ]; then export {name}=${{{name}#?}} ; fi'  # noqa: E501\nFORMAT_STR_REMOVE_TRAILING_SEPARATOR = 'if [ \"$(echo -n ${name} | tail -c 1)\" = \":\" ]; then export {name}=${{{name}%?}} ; fi'  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_SET_ENV_VAR",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "FORMAT_STR_SET_ENV_VAR = 'export {name}=\"{value}\"'\nFORMAT_STR_USE_ENV_VAR = '${name}'\nFORMAT_STR_INVOKE_SCRIPT = 'COLCON_CURRENT_PREFIX=\"{prefix}\" _colcon_prefix_sh_source_script \"{script_path}\"'  # noqa: E501\nFORMAT_STR_REMOVE_LEADING_SEPARATOR = 'if [ \"$(echo -n ${name} | head -c 1)\" = \":\" ]; then export {name}=${{{name}#?}} ; fi'  # noqa: E501\nFORMAT_STR_REMOVE_TRAILING_SEPARATOR = 'if [ \"$(echo -n ${name} | tail -c 1)\" = \":\" ]; then export {name}=${{{name}%?}} ; fi'  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_USE_ENV_VAR",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "FORMAT_STR_USE_ENV_VAR = '${name}'\nFORMAT_STR_INVOKE_SCRIPT = 'COLCON_CURRENT_PREFIX=\"{prefix}\" _colcon_prefix_sh_source_script \"{script_path}\"'  # noqa: E501\nFORMAT_STR_REMOVE_LEADING_SEPARATOR = 'if [ \"$(echo -n ${name} | head -c 1)\" = \":\" ]; then export {name}=${{{name}#?}} ; fi'  # noqa: E501\nFORMAT_STR_REMOVE_TRAILING_SEPARATOR = 'if [ \"$(echo -n ${name} | tail -c 1)\" = \":\" ]; then export {name}=${{{name}%?}} ; fi'  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_INVOKE_SCRIPT",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "FORMAT_STR_INVOKE_SCRIPT = 'COLCON_CURRENT_PREFIX=\"{prefix}\" _colcon_prefix_sh_source_script \"{script_path}\"'  # noqa: E501\nFORMAT_STR_REMOVE_LEADING_SEPARATOR = 'if [ \"$(echo -n ${name} | head -c 1)\" = \":\" ]; then export {name}=${{{name}#?}} ; fi'  # noqa: E501\nFORMAT_STR_REMOVE_TRAILING_SEPARATOR = 'if [ \"$(echo -n ${name} | tail -c 1)\" = \":\" ]; then export {name}=${{{name}%?}} ; fi'  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_REMOVE_LEADING_SEPARATOR",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "FORMAT_STR_REMOVE_LEADING_SEPARATOR = 'if [ \"$(echo -n ${name} | head -c 1)\" = \":\" ]; then export {name}=${{{name}#?}} ; fi'  # noqa: E501\nFORMAT_STR_REMOVE_TRAILING_SEPARATOR = 'if [ \"$(echo -n ${name} | tail -c 1)\" = \":\" ]; then export {name}=${{{name}%?}} ; fi'  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "FORMAT_STR_REMOVE_TRAILING_SEPARATOR",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "FORMAT_STR_REMOVE_TRAILING_SEPARATOR = 'if [ \"$(echo -n ${name} | tail -c 1)\" = \":\" ]; then export {name}=${{{name}%?}} ; fi'  # noqa: E501\nDSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_APPEND_NON_DUPLICATE",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "DSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_PREPEND_NON_DUPLICATE",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "DSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'\nDSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "DSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'\nDSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(\n        'primary_extension',",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_SET",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "DSV_TYPE_SET = 'set'\nDSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(\n        'primary_extension',\n        help='The file extension of the primary shell')",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_SET_IF_UNSET",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "DSV_TYPE_SET_IF_UNSET = 'set-if-unset'\nDSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(\n        'primary_extension',\n        help='The file extension of the primary shell')\n    parser.add_argument(",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "DSV_TYPE_SOURCE",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "DSV_TYPE_SOURCE = 'source'\ndef main(argv=sys.argv[1:]):  # noqa: D103\n    parser = argparse.ArgumentParser(\n        description='Output shell commands for the packages in topological '\n                    'order')\n    parser.add_argument(\n        'primary_extension',\n        help='The file extension of the primary shell')\n    parser.add_argument(\n        'additional_extension', nargs='?',",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "env_state",
+        "kind": 5,
+        "importPath": "install._local_setup_util_sh",
+        "description": "install._local_setup_util_sh",
+        "peekOfCode": "env_state = {}\ndef _append_unique_value(name, value):\n    global env_state\n    if name not in env_state:\n        if os.environ.get(name):\n            env_state[name] = set(os.environ[name].split(os.pathsep))\n        else:\n            env_state[name] = set()\n    # append even if the variable has not been set yet, in case a shell script sets the\n    # same variable without the knowledge of this Python script.",
+        "detail": "install._local_setup_util_sh",
+        "documentation": {}
+    },
+    {
+        "label": "generate_launch_description",
+        "kind": 2,
+        "importPath": "src.test_plot.launch.test.launch",
+        "description": "src.test_plot.launch.test.launch",
+        "peekOfCode": "def generate_launch_description():\n    test_plotter = Node(\n        package=\"test_plot\",\n        executable=\"test_plot1.py\",\n        name=\"test_plotter\",\n        output=\"screen\",\n        emulate_tty=True,\n    )\n    test_pub = Node(\n        package=\"test_plot\",",
+        "detail": "src.test_plot.launch.test.launch",
+        "documentation": {}
+    },
+    {
+        "label": "Example_Node",
+        "kind": 6,
+        "importPath": "src.test_plot.scripts.test_plot",
+        "description": "src.test_plot.scripts.test_plot",
+        "peekOfCode": "class Example_Node(Node):\n    \"\"\"Example Node for showing how to use matplotlib within ros 2 node\n    Attributes:\n        fig: Figure object for matplotlib\n        ax: Axes object for matplotlib\n        x: x values for matplotlib\n        y: y values for matplotlib\n        lock: lock for threading\n        _sub: Subscriber for node\n    \"\"\"",
+        "detail": "src.test_plot.scripts.test_plot",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.test_plot.scripts.test_plot",
+        "description": "src.test_plot.scripts.test_plot",
+        "peekOfCode": "def main(args=None):\n    rclpy.init(args=args)\n    node = Example_Node()\n    executor = rclpy.executors.MultiThreadedExecutor()\n    executor.add_node(node)\n    thread = threading.Thread(target=executor.spin, daemon=True)\n    thread.start()\n    node._plt()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "src.test_plot.scripts.test_plot",
+        "documentation": {}
+    },
+    {
+        "label": "Example_Node",
+        "kind": 6,
+        "importPath": "src.test_plot.scripts.test_plot1",
+        "description": "src.test_plot.scripts.test_plot1",
+        "peekOfCode": "class Example_Node(Node):\n    \"\"\"Example Node for showing how to use matplotlib within ros 2 node\n    Attributes:\n        fig: Figure object for matplotlib\n        ax: Axes object for matplotlib\n        x: x values for matplotlib\n        y: y values for matplotlib\n        lock: lock for threading\n        _sub: Subscriber for node\n    \"\"\"",
+        "detail": "src.test_plot.scripts.test_plot1",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.test_plot.scripts.test_plot1",
+        "description": "src.test_plot.scripts.test_plot1",
+        "peekOfCode": "def main(args=None):\n    rclpy.init(args=args)\n    node = Example_Node()\n    executor = rclpy.executors.MultiThreadedExecutor()\n    executor.add_node(node)\n    thread = threading.Thread(target=executor.spin, daemon=True)\n    thread.start()\n    node._plt()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "src.test_plot.scripts.test_plot1",
+        "documentation": {}
+    },
+    {
+        "label": "TestPub",
+        "kind": 6,
+        "importPath": "src.test_plot.scripts.test_pub",
+        "description": "src.test_plot.scripts.test_pub",
+        "peekOfCode": "class TestPub(Node):\n    def __init__(self) -> None:\n        super().__init__(\"test_pub\")\n        self.cbg = rclpy.callback_groups.MutuallyExclusiveCallbackGroup()\n        self.pub = self.create_publisher(Test, \"test\", 10, callback_group=self.cbg)\n        self.counter = 4\n        time.sleep(5)\n        self.timer = self.create_timer(1, self.loop_pub)\n    def loop_pub(self) -> None:\n        self.counter += 1",
+        "detail": "src.test_plot.scripts.test_pub",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.test_plot.scripts.test_pub",
+        "description": "src.test_plot.scripts.test_pub",
+        "peekOfCode": "def main(args=None):\n    rclpy.init(args=args)\n    node = TestPub()\n    rclpy.spin(node)\n    rclpy.shutdown()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "src.test_plot.scripts.test_pub",
+        "documentation": {}
+    }
+]

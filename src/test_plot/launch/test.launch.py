@@ -9,7 +9,7 @@ from launch_ros.actions import Node
 def generate_launch_description():
     test_plotter = Node(
         package="test_plot",
-        executable="test_plot.py",
+        executable="test_plot1.py",
         name="test_plotter",
         output="screen",
         emulate_tty=True,
